@@ -1,0 +1,29 @@
+Following packages are already installed as part of the solution.
+	Microsoft.AspNet.WebApi.Client v5.2.7
+	Newtonsoft.Json 6.0.4 -> updated to 12.0.3
+	Microsoft.IdentityModel.Tokens v6.8.0
+
+Please install the following packages for any missing reference.
+Use NuGet Package Manager to install the Web API Client Libraries package.
+
+From the Tools menu, select NuGet Package Manager > Package Manager Console. In the Package Manager Console (PMC), type the following command:
+
+Install-Package Microsoft.AspNet.WebApi.Client
+
+or/ and
+
+
+Microsoft.AspNet.WebApi.Client v5.2.7
+Newtonsoft.Json 6.0.4 -> updated to 12.0.3
+Microsoft.IdentityModel.Tokens v6.8.0
+
+In Manage NuGet Packages for Solution on rightclick of Solution Explorer, search for the above 3 packages and install and update accordingly.
+
+
+
+
+
+
+
+
+
